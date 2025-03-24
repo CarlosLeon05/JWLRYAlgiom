@@ -8,3 +8,5 @@ MARCH 7TH 2025:
   -Added Login Pop-up / 
   -Added profile icon next to "Mi cuenta"
 
+MARCH 15TH 2025:
+  -Modified color scheme
